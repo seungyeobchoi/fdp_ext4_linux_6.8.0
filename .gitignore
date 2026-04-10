@@ -1,12 +1,9 @@
-*.o
-*.ko
-*.img
+linux_6.8.0-78/
+linux_origin/
 *.qcow2
+*.img
 *.deb
 *.iso
 *.buildinfo
 *.changes
 build-error.log
-vmlinux
-System.map
-.config
