@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.img
+*.qcow2
+*.deb
+*.iso
+*.buildinfo
+*.changes
+build-error.log
+vmlinux
+System.map
+.config
